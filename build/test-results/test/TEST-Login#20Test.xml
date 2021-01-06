@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-06T21:25:56" hostname="DESKTOP-QP9345A" time="54.541">
+  <properties/>
+  <testcase name="Login in the web site" classname="Login Test" time="54.541"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5975b565
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@535c8005
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@54b32da3
+ene 06, 2021 4:25:58 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 38532
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 06, 2021 4:26:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@28279090
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@48ad62bf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@724d5727
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@62b0d85f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@291bb1e7
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5900f38f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@23d0b0ed
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2d469b7c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2293bc93
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2d89579a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@15487a9d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4f803b06
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2855bda3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@66d16f06
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5edf0968
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3e28b509
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@481b4a16
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@143e7636
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2fa1777b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3d272700
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@45102abf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@48171294
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7740f83f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6fc02bb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4dedea31
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@409cc51d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6f28451
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3dfaf2e5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@648f0fdd
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@76e7c7e4
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2eb965c5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Login in the web site:Given that Julian wants to learn how can login into the page
+| strFNAME | strLNAME | strEMAIL |
+| Eduardo | Camacho | jeac0416@gmail.com | [Julian open up [Julian opens the Utest], Julian login [Julian clicks on button that shows us the form, Julian enters 'Eduardo' into field for first name, Julian enters 'Camacho' into field for last name, Julian enters 'jeac0416@gmail.com' into field for Email Addres, Julian clicks on Click on MONTH, Julian clicks on Field for Date: Month, Julian clicks on Click on DAY, Julian clicks on field for date: day, Julian clicks on Click on YEAR, Julian clicks on field for date: year, Julian clicks on Click on Next]], When fill in the form fields
+| strCITY | strZIP | strCOUNTRY | strCOMP | strVERSION | strLANG |
+| Floridablanca Santander, Colombia | 681003 | Colombia | Windows | Windows 10 Home | English | [Julian addres [Julian clicks on Click on Next], Julian devices [Julian clicks on Click on Your computer, Julian enters 'Windows' then hits [ENTER] into Set your computer, Julian clicks on Click on VERSION, Julian enters 'Windows 10 Home' then hits [ENTER] into Set your version, Julian clicks on Click on LANGUAGE, Julian enters 'English' then hits [ENTER] into Set your language, Julian clicks on Click on Next]], Then finish the form and click to send it
+| strPASSWD | strCONFPASS |
+| Prueba7es7(6) | Prueba7es7(6) | [Julian passwd [Julian enters 'Prueba7es7(6)' into Set your password, Julian enters 'Prueba7es7(6)' into Confirm your password, Julian clicks on Click on the box 0, Julian clicks on Click on the box 1, Julian clicks on Click on the box 2, Julian clicks on click to finish]]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Login in the web site
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

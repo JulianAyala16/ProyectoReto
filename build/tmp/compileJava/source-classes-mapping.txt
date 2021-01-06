@@ -1,0 +1,26 @@
+proyecto2/tasks/OpenUp.java
+ proyecto2.tasks.OpenUp
+proyecto2/userinterface/Utest.java
+ proyecto2.userinterface.Utest
+proyecto2/model/ProyectoData.java
+ proyecto2.model.ProyectoData
+proyecto2/userinterface/UtestLogin.java
+ proyecto2.userinterface.UtestLogin
+proyecto2/tasks/Login.java
+ proyecto2.tasks.Login
+proyecto2/tasks/Passwd.java
+ proyecto2.tasks.Passwd
+proyecto2/userinterface/UtestPasswd.java
+ proyecto2.userinterface.UtestPasswd
+proyecto2/userinterface/UtestAddress.java
+ proyecto2.userinterface.UtestAddress
+proyecto2/model/ProyectoData3.java
+ proyecto2.model.ProyectoData3
+proyecto2/userinterface/UtestDevices.java
+ proyecto2.userinterface.UtestDevices
+proyecto2/model/ProyectoData2.java
+ proyecto2.model.ProyectoData2
+proyecto2/tasks/Addres.java
+ proyecto2.tasks.Addres
+proyecto2/tasks/Devices.java
+ proyecto2.tasks.Devices

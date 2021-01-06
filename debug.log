@@ -1,0 +1,32 @@
+[0106/011636.257:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/011636.296:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir9868_70432679\Crashpad\attachments\d88c5238-12e9-4078-a2b8-a0a7870ee527: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/011737.742:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir5236_1893977319\Crashpad\attachments\24270578-b9f5-4b41-a5c5-c7007c5de78f: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/030324.354:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir13132_1351485125\Crashpad\attachments\fe7633d6-f664-4aee-a357-e2be4c409127: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/100019.492:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/100019.523:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir19336_1854021336\Crashpad\attachments\6a3e65c6-efc8-4322-a834-c9180aa92833: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/100056.508:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir14416_1994540822\Crashpad\attachments\165cc0b5-88a4-4633-aa16-3ab8e7307720: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/100416.304:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/100416.349:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir17300_473077489\Crashpad\attachments\bee89fb3-117c-49bf-8525-569b665d8a72: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/101111.730:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/101111.779:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir19076_475590714\Crashpad\attachments\9713be59-851a-494e-bc5e-72338551d86f: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/115955.332:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir8556_1904138200\Crashpad\attachments\7e390d11-2ff7-49d2-a83c-7f37f3044be5: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/132321.073:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/132321.100:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir11660_766126780\Crashpad\attachments\f33bf097-d250-4354-9b06-13ce1f6db3a2: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/132450.947:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir9580_2124174361\Crashpad\attachments\eb38d55f-5e45-4ff0-81e8-1e5fafd294d6: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/132830.015:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/132830.054:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir19260_860718118\Crashpad\attachments\feea3df4-8386-480c-a424-f12b35c85cf1: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/132831.039:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/133132.259:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir18648_1237660449\Crashpad\attachments\a705fe88-432b-4c71-a009-b402342892b0: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/133132.820:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/133206.792:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/133206.830:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/133206.830:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir5800_792444073\Crashpad\attachments\5f683b2f-3218-450f-aad7-0ec3ddb9f8d5: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/133206.858:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: La operación se completó correctamente. (0x0)
+[0106/133237.377:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir14716_1109476744\Crashpad\attachments\74282844-9f74-4cd2-a583-261ab7b84056: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/133307.720:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir7800_2131678054\Crashpad\attachments\c9c6450c-19d0-41b2-bb87-043533914f39: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/141332.934:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir14120_130833294\Crashpad\attachments\106fc564-53aa-42fd-8101-8293f79be001: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/152233.751:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/152233.778:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir5996_1510593283\Crashpad\attachments\9f9cc7c1-48a1-4c11-a68b-a9da0cb6183a: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/152441.351:ERROR:process_info.cc(359)] UncheckedAllocate
+[0106/152441.390:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir18400_1686913708\Crashpad\attachments\9c3817ef-d272-41df-90e0-6ea57514e091: El sistema no puede encontrar la ruta especificada. (0x3)
+[0106/155927.241:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Usuario\AppData\Local\Temp\scoped_dir4176_1887232553\Crashpad\attachments\171ba0a3-4eae-439f-ba1f-608dde702605: El sistema no puede encontrar la ruta especificada. (0x3)
